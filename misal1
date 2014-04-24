@@ -1,3 +1,4 @@
 public class contoh {
 public nama character;
+public no integer;
 }
